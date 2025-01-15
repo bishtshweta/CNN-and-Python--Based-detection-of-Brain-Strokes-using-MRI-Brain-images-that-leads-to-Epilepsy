@@ -1,0 +1,2 @@
+# CNN-and-Python--Based-detection-of-Brain-Strokes-using-MRI-Brain-images-that-leads-to-Epilepsy
+The project uses CNNs to detect brain strokes from MRI scans, achieving 90.55% test accuracy. Key steps include data preprocessing, augmentation, and using the VGG16 model. It aims to reduce diagnosis time, cost, and errors. The model shows potential for medical use, with scope for improvement through larger datasets and optimized hyperparameters.
